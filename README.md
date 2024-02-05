@@ -2,8 +2,9 @@
     <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=120&text=HaEun%20Lee&animation=&fontColor=ffffff&fontSize=50" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Introduction </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 사용자 중심의 프로그램을 개발하는 Front End Developer 이하은입니다. </div> 
+        <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Introduction </h2>  
+        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 목표를 향해 함께 길을 만들어가는 개발자입니다. </br> 팀 구성원들과 문제를 해결하고자 스프린트 및 일일 스크럼을 도입해 문제를 팀 전체 몫으로 인식하게 하여 프로젝트를 성공적으로 이끌었고, 이를 통해 우수 교육생으로 선발된 경험이 있습니다. </br> 새로운 지식 습득을 지향하며, 공부한 내용을 정리하여 기술 블로그에 공유함으로써 프론트엔드 개발 기술에 대한 이해도를 높이고 있습니다.
+         </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
